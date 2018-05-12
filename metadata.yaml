@@ -1,0 +1,47 @@
+_repo: Aron-prinsessa_25120
+_version: 0.1.0
+alternative_title: Das Heideprinzesschen. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Alma
+    alias: A--a
+    birthdate: 1858
+    deathdate: 1937
+    gutenberg_agent_id: '6629'
+    url: http://www.gutenberg.org/2009/agents/6629
+    wikipedia: http://fi.wikipedia.org/wiki/Alma_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlitt, E. (Eugenie)
+    aliases:
+    - Marlitt, Eugenia
+    - John, Eugenie
+    - Marlitt, Eugenie
+    birthdate: 1825
+    deathdate: 1887
+    gutenberg_agent_id: '28338'
+    url: http://www.gutenberg.org/2009/agents/28338
+description: ''
+gutenberg_issued: '2008-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25120'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Moors (Wetlands) -- Juvenile fiction'
+- !lcsh 'Archaeologists -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Aron prinsessa
+url: http://www.gutenberg.org/ebooks/25120
